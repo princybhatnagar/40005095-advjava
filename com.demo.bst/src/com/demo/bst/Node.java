@@ -1,0 +1,8 @@
+package com.demo.bst;
+
+public class Node {
+	 Node left;
+	  Node right;
+	  int data;
+
+}
